@@ -1,5 +1,7 @@
 function sayHi(name) {
-  return `Hello there ${name}`
+  return `Hello there ${name}`;
 }
 
-module.exports = sayHi
+module.exports = sayHi;
+
+// Mhy comment
